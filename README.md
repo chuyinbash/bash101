@@ -1,5 +1,5 @@
 # Bash 101 examples
 
-##Details
+## Details
 
 This repository has basic examples to start bashing like a pro
